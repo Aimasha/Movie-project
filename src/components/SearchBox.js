@@ -4,7 +4,7 @@ class SearchBox extends Component{
     constructor(props){
         super();
         this.state ={
-    
+     
         }
     }
     render(){

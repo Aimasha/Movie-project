@@ -14,7 +14,7 @@ class App extends Component {
       movies: [],
       favorites: [],
       filteredValue: " ",
-      searchValue: " ",
+      searchValue: "",
     };
   }
   componentDidMount() {
@@ -100,7 +100,7 @@ class App extends Component {
         </div>
 
         
-         <h3 className="favorite"> Favorite </h3>
+         <h3 className="favorite"> Favorite movies </h3>
         
 
          <div className="row">

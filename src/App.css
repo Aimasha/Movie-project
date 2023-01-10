@@ -1,6 +1,7 @@
 div#root{
     background-color: rgb(43, 42, 42);
-}
+    height: 200vh;
+}   
 p{
     color: white;
 }
@@ -9,18 +10,23 @@ p{
     padding: 15px;
     border-radius: 10px;
     background-color: white;
+    margin-top: 50px;
 }
 .inp-back{
     background-color: rgb(17, 23, 57);
 }
+
 .container{
     border: 1px solid white;
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    height: 200vh;
 }
 .favorite{
     margin-top: 10px;
-    background-color: white;
-    width: 10%;
+    color: rgb(44, 47, 50);
+    width: 30%;
     border-radius: 5px;
+    text-align: center;
+    background-color: rgb(18, 185, 240);
 }
 
